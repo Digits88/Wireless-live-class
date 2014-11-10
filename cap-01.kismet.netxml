@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE detection-run SYSTEM "http://kismetwireless.net/kismet-3.1.0.dtd">
+
+<detection-run kismet-version="airodump-ng-1.0" start-time="Sat Sep 20 01:52:29 2014">
+
+	<wireless-network number="1" type="infrastructure" first-time="Sat Sep 20 01:52:50 2014" last-time="Sat Sep 20 01:53:25 2014">
+		<SSID first-time="Sat Sep 20 01:52:50 2014" last-time="Sat Sep 20 01:53:25 2014">
+			<type>Beacon</type>
+			<max-rate>54.000000</max-rate>
+			<packets>3</packets>
+			<beaconrate>10</beaconrate>
+			<encryption>WPA TKIP </encryption>
+			<essid cloaked="false">G-LINK CALIF.0727970353</essid>
+		</SSID>
+		<BSSID>DC:9F:DB:3C:A0:2D</BSSID>
+		<manuf>Unknown</manuf>
+		<channel>11</channel>
+		<freqmhz>2462 3</freqmhz>
+		<maxseenrate>54000</maxseenrate>
+		<packets>
+			<LLC>3</LLC>
+			<data>0</data>
+			<crypt>0</crypt>
+			<total>3</total>
+			<fragments>0</fragments>
+			<retries>0</retries>
+		</packets>
+		<datasize>0</datasize>
+		<snr-info>
+			<last_signal_dbm>-88</last_signal_dbm>
+			<last_noise_dbm>0</last_noise_dbm>
+			<last_signal_rssi>-88</last_signal_rssi>
+			<last_noise_rssi>0</last_noise_rssi>
+			<min_signal_dbm>-88</min_signal_dbm>
+			<min_noise_dbm>0</min_noise_dbm>
+			<min_signal_rssi>1024</min_signal_rssi>
+			<min_noise_rssi>1024</min_noise_rssi>
+			<max_signal_dbm>-88</max_signal_dbm>
+			<max_noise_dbm>0</max_noise_dbm>
+			<max_signal_rssi>-88</max_signal_rssi>
+			<max_noise_rssi>0</max_noise_rssi>
+		</snr-info>
+		<bsstimestamp>0</bsstimestamp>
+		<cdp-device></cdp-device>
+		<cdp-portid></cdp-portid>
+	</wireless-network>
+	<wireless-network number="2" type="infrastructure" first-time="Sat Sep 20 01:52:50 2014" last-time="Sat Sep 20 01:53:53 2014">
+		<SSID first-time="Sat Sep 20 01:52:50 2014" last-time="Sat Sep 20 01:53:53 2014">
+			<type>Beacon</type>
+			<max-rate>54.000000</max-rate>
+			<packets>11</packets>
+			<beaconrate>10</beaconrate>
+			<encryption>WPA2 TKIP </encryption>
+			<essid cloaked="false">Coolcat</essid>
+		</SSID>
+		<BSSID>84:C9:B2:E5:6D:04</BSSID>
+		<manuf>Unknown</manuf>
+		<channel>11</channel>
+		<freqmhz>2462 11</freqmhz>
+		<maxseenrate>54000</maxseenrate>
+		<packets>
+			<LLC>11</LLC>
+			<data>0</data>
+			<crypt>0</crypt>
+			<total>11</total>
+			<fragments>0</fragments>
+			<retries>0</retries>
+		</packets>
+		<datasize>0</datasize>
+		<snr-info>
+			<last_signal_dbm>-87</last_signal_dbm>
+			<last_noise_dbm>0</last_noise_dbm>
+			<last_signal_rssi>-87</last_signal_rssi>
+			<last_noise_rssi>0</last_noise_rssi>
+			<min_signal_dbm>-87</min_signal_dbm>
+			<min_noise_dbm>0</min_noise_dbm>
+			<min_signal_rssi>1024</min_signal_rssi>
+			<min_noise_rssi>1024</min_noise_rssi>
+			<max_signal_dbm>-87</max_signal_dbm>
+			<max_noise_dbm>0</max_noise_dbm>
+			<max_signal_rssi>-87</max_signal_rssi>
+			<max_noise_rssi>0</max_noise_rssi>
+		</snr-info>
+		<bsstimestamp>0</bsstimestamp>
+		<cdp-device></cdp-device>
+		<cdp-portid></cdp-portid>
+	</wireless-network>
+	<wireless-network number="3" type="infrastructure" first-time="Sat Sep 20 01:52:31 2014" last-time="Sat Sep 20 01:53:58 2014">
+		<SSID first-time="Sat Sep 20 01:52:31 2014" last-time="Sat Sep 20 01:53:58 2014">
+			<type>Beacon</type>
+			<max-rate>54.000000</max-rate>
+			<packets>83</packets>
+			<beaconrate>10</beaconrate>
+			<encryption>WPA TKIP </encryption>
+			<essid cloaked="false">Coolcat</essid>
+		</SSID>
+		<BSSID>98:FC:11:CB:7A:B7</BSSID>
+		<manuf>Unknown</manuf>
+		<channel>9</channel>
+		<freqmhz>2452 123</freqmhz>
+		<maxseenrate>54000</maxseenrate>
+		<packets>
+			<LLC>83</LLC>
+			<data>40</data>
+			<crypt>0</crypt>
+			<total>123</total>
+			<fragments>0</fragments>
+			<retries>0</retries>
+		</packets>
+		<datasize>0</datasize>
+		<snr-info>
+			<last_signal_dbm>-85</last_signal_dbm>
+			<last_noise_dbm>0</last_noise_dbm>
+			<last_signal_rssi>-85</last_signal_rssi>
+			<last_noise_rssi>0</last_noise_rssi>
+			<min_signal_dbm>-85</min_signal_dbm>
+			<min_noise_dbm>0</min_noise_dbm>
+			<min_signal_rssi>1024</min_signal_rssi>
+			<min_noise_rssi>1024</min_noise_rssi>
+			<max_signal_dbm>-85</max_signal_dbm>
+			<max_noise_dbm>0</max_noise_dbm>
+			<max_signal_rssi>-85</max_signal_rssi>
+			<max_noise_rssi>0</max_noise_rssi>
+		</snr-info>
+		<bsstimestamp>0</bsstimestamp>
+		<cdp-device></cdp-device>
+		<cdp-portid></cdp-portid>
+	</wireless-network>
+	<wireless-network number="4" type="infrastructure" first-time="Sat Sep 20 01:52:29 2014" last-time="Sat Sep 20 01:54:11 2014">
+		<SSID first-time="Sat Sep 20 01:52:29 2014" last-time="Sat Sep 20 01:54:11 2014">
+			<type>Beacon</type>
+			<max-rate>54.000000</max-rate>
+			<packets>323</packets>
+			<beaconrate>10</beaconrate>
+			<encryption>WPA2 AES-CCM </encryption>
+			<essid cloaked="false">Safaricom WiMax</essid>
+		</SSID>
+		<BSSID>80:57:19:30:78:DF</BSSID>
+		<manuf>Unknown</manuf>
+		<channel>10</channel>
+		<freqmhz>2457 365</freqmhz>
+		<maxseenrate>54000</maxseenrate>
+		<packets>
+			<LLC>323</LLC>
+			<data>29</data>
+			<crypt>0</crypt>
+			<total>365</total>
+			<fragments>0</fragments>
+			<retries>0</retries>
+		</packets>
+		<datasize>0</datasize>
+		<wireless-client number="1" type="established" first-time="Sat Sep 20 01:52:31 2014" last-time="Sat Sep 20 01:52:53 2014">
+			<client-mac>8C:70:5A:5D:1E:C0</client-mac>
+			<client-manuf>Unknown</client-manuf>
+			<channel>10</channel>
+			<maxseenrate>1.000000</maxseenrate>
+			<packets>
+				<LLC>0</LLC>
+				<data>0</data>
+				<crypt>0</crypt>
+				<total>30</total>
+				<fragments>0</fragments>
+				<retries>0</retries>
+			</packets>
+			<snr-info>
+				<last_signal_dbm>0</last_signal_dbm>
+				<last_noise_dbm>0</last_noise_dbm>
+				<last_signal_rssi>0</last_signal_rssi>
+				<last_noise_rssi>0</last_noise_rssi>
+				<min_signal_dbm>0</min_signal_dbm>
+				<min_noise_dbm>0</min_noise_dbm>
+				<min_signal_rssi>1024</min_signal_rssi>
+				<min_noise_rssi>1024</min_noise_rssi>
+				<max_signal_dbm>0</max_signal_dbm>
+				<max_noise_dbm>0</max_noise_dbm>
+				<max_signal_rssi>0</max_signal_rssi>
+				<max_noise_rssi>0</max_noise_rssi>
+			</snr-info>
+			<cdp-device></cdp-device>
+			<cdp-portid></cdp-portid>
+		</wireless-client>
+		<snr-info>
+			<last_signal_dbm>-19</last_signal_dbm>
+			<last_noise_dbm>0</last_noise_dbm>
+			<last_signal_rssi>-19</last_signal_rssi>
+			<last_noise_rssi>0</last_noise_rssi>
+			<min_signal_dbm>-19</min_signal_dbm>
+			<min_noise_dbm>0</min_noise_dbm>
+			<min_signal_rssi>1024</min_signal_rssi>
+			<min_noise_rssi>1024</min_noise_rssi>
+			<max_signal_dbm>-19</max_signal_dbm>
+			<max_noise_dbm>0</max_noise_dbm>
+			<max_signal_rssi>-19</max_signal_rssi>
+			<max_noise_rssi>0</max_noise_rssi>
+		</snr-info>
+		<bsstimestamp>0</bsstimestamp>
+		<cdp-device></cdp-device>
+		<cdp-portid></cdp-portid>
+	</wireless-network>
+</detection-run>

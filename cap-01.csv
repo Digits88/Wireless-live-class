@@ -1,0 +1,12 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+DC:9F:DB:3C:A0:2D, 2014-09-20 01:52:50, 2014-09-20 01:53:25, 11,  54, WPA , TKIP,PSK, -88,        3,        0,   0.  0.  0.  0,  23, G-LINK CALIF.0727970353, 
+84:C9:B2:E5:6D:04, 2014-09-20 01:52:50, 2014-09-20 01:53:53, 11,  54, WPA2, TKIP,PSK, -87,       11,        0,   0.  0.  0.  0,   7, Coolcat, 
+98:FC:11:CB:7A:B7, 2014-09-20 01:52:31, 2014-09-20 01:53:58,  9,  54, WPA , TKIP,PSK, -85,       83,       40,   0.  0.  0.  0,   7, Coolcat, 
+80:57:19:30:78:DF, 2014-09-20 01:52:29, 2014-09-20 01:54:11, 10,  54, WPA2, CCMP,PSK, -19,      323,       29,   0.  0.  0.  0,  15, Safaricom WiMax, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+8C:70:5A:5D:1E:C0, 2014-09-20 01:52:31, 2014-09-20 01:52:53,   0,       30, 80:57:19:30:78:DF,
+9C:3A:AF:BB:19:A3, 2014-09-20 01:53:48, 2014-09-20 01:53:48, -88,        2, (not associated) ,
+80:57:19:30:78:DF, 2014-09-20 01:52:56, 2014-09-20 01:53:17, -34,       24, (not associated) ,
+

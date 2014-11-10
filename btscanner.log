@@ -1,0 +1,7 @@
+2014/09/20 02:08:14: info: btscanner starting
+2014/09/20 02:08:22: info: threader_start::pthread_create(): created thread 1250498304
+2014/09/20 02:13:08: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2014/09/20 02:13:19: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2014/09/20 02:13:31: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2014/09/20 02:13:41: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2014/09/20 02:13:51: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
